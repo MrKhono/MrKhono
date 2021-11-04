@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... iln Company
+- 🔭 I’m currently working on ... Iln Company
 - 🌱 I’m currently learning ... Flutter with Dart
 - 👯 I’m looking to collaborate on ... Web development 
 - 🤔 I’m looking for help with ... FrontEnd development
