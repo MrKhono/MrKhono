@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [email](akhono@yahoo.com)
 - 😄 Pronouns: ... He/him
-- ⚡ Fun fact: ... like It security
+- ⚡ Fun fact: ... Like It security
 -->
