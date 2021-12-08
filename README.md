@@ -1,5 +1,7 @@
 ### Hello, I'm Armand ! 👋
 
+<hr>
+
 <a href="https://twitter.com/IcloK48">
   <img align="left" alt="Armand's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
