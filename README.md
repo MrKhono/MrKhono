@@ -22,9 +22,7 @@
 - 🔭 I’m currently working on ... App dev
 - 🌱 I’m currently learning ... Flutter with Dart
 - 👯 I’m looking to collaborate on ... Web development 
-- 🤔 I’m looking for help with ... FrontEnd development
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [email](akhono@yahoo.com)
-- 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ... Like It security
 -->
