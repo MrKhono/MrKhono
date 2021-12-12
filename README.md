@@ -26,3 +26,5 @@
 - 📫 How to reach me: ... [email](akhono@yahoo.com)
 - ⚡ Fun fact: ... Like It security
 -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=MrKhono&&show_icons=true&&title_color=ffffff&icon_colorbb2acf&text_color=daf7dc&bg_color=151515>
