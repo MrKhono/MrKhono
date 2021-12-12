@@ -19,6 +19,14 @@
 <br/>
 <br/>
 
+
+### Languages and Tools:
+
+<a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/BB8003/python.png"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img srce="https://img.icons8.com/color/48/0000000/html-5.png"/> </a>
+<a href="https://www.getbootstrap.com" target="_blank"> <img srce="https://img.icons8.com/color/48/0000000/bootstrap.png"/> </a>
+
 - 🔭 I’m currently working on ... App dev
 - 🌱 I’m currently learning ... Flutter with Dart
 - 👯 I’m looking to collaborate on ... Web development 
@@ -27,4 +35,5 @@
 - ⚡ Fun fact: ... Like It security
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=MrKhono&&show_icons=true&&title_color=ffffff&icon_colorbb2acf&text_color=daf7dc&bg_color=151515">
+<!--<img src="https://github-readme-stats.vercel.app/api?username=MrKhono&&show_icons=true&&title_color=ffffff&icon_colorbb2acf&text_color=daf7dc&bg_color=151515"> -->
+
