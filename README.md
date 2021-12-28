@@ -41,7 +41,7 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/0000000/mysql-logo.png"/> </a>
 <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/fluent/48/0000000/php.png"/> </a>
 <a href="https://flutter.dev" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>
-<a href="https://flutter.dev" target="_blank"> <img src="https://img.icons8.com/color/48/000000/wordpress.png"/> </a>
+<a href="https://wordpress.com/fr/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/wordpress.png"/> </a>
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
 <a href="https://www.adobe.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/> </a>
 <a href="https://www.figma.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/> </a>
