@@ -39,13 +39,18 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
 <a href="https://www.getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/0000000/bootstrap.png"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/0000000/mysql-logo.png"/> </a>
-<a href="https://www.mongodb.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a>
 <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/fluent/48/0000000/php.png"/> </a>
 <a href="https://flutter.dev" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
 <a href="https://www.adobe.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/> </a>
 <a href="https://www.figma.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/> </a>
 
+### Technologies
+
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
 
 
 
