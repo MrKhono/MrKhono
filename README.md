@@ -51,6 +51,9 @@
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
+[![React](https://img.shields.io/badge/-React-000?logo=react)](https://reactjs.org "Go to React homepage")
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
+![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony)
 
 
 
