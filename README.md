@@ -32,8 +32,6 @@
 
 ### Languages and Tools:
 
-<a style="text-decoration:none;" href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/BB8003/python.png" title="python"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
@@ -46,13 +44,13 @@
 
 ### Technologies
 
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+<!--![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
+![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony)
+![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb) -->
 [![React](https://img.shields.io/badge/-React-000?logo=react)](https://reactjs.org "Go to React homepage")
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
-![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 
 
