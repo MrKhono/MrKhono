@@ -22,9 +22,8 @@
 
 
 
-- 🔭 I’m currently working on ... App dev
-- 🌱 I’m currently learning ... Flutter with Dart
-- 👯 I’m looking to collaborate on ... Web development 
+- 🌱 I’m currently learning Flutter with Dart
+- 👯 I’m looking to collaborate on anything
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [email](akhono@yahoo.com)
 - ⚡ Fun fact: ... Like It security
