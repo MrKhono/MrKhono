@@ -52,7 +52,9 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 
+### Support Me
 
+<a href="https://www.buymeacoffee.com/hmpmc2c74jP"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 <!--<img src="https://github-readme-stats.vercel.app/api?username=MrKhono&&show_icons=true&&title_color=ffffff&icon_colorbb2acf&text_color=daf7dc&bg_color=151515"> -->
 
