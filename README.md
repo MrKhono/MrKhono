@@ -1,8 +1,12 @@
 <h1 align="center"> Hello, I'm Armand Khono ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
+<h3 align="center">SoftWare Engineering</h3>
+<h3 align="center">Junior Flutter Developer</h3>
+
+
+<!--<p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?color=1FF7C6&lines=SoftWare+Engineering;Junior+Flutter+Developer;Junior+Pen+Tester">
- </p>
+ </p> -->
  
 </br>
 
